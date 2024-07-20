@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="title_hint">Введите название.</string>
+    <string name="title_label">Название</string>
+    <string name="details_label">Детали</string>
+    <string name="solved_label">Решено</string>
+    <string name="new_note">Новая заметка</string>»
+    <string name="author_text">Выберите автора</string>
+    <string name="report_text">Отправить отчет</string>
+    <string name="report">%1$s!Детали: %2$s. %3$s, и %4$s</string>
+    <string name="report_solved">Решена</string>
+    <string name="report_unsolved">Не решена</string>
+    <string name="report_no_author">не имеет автора</string>
+    <string name="report_author">автором является %s.</string>
+    <string name="report_subject">Отчет о заметке</string>
+</resources>
